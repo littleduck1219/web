@@ -21,5 +21,5 @@
 <p>header : 머릿말과 소개하는 부분등을 나타낸다.</p>
 <p>footer : 꼬릿말과 중첩된 nav요소와 copyright등을 나타낸다.</p>
 <p>aside : 사이드 바 를 나타낸다.</p>
-<p>summary : </p>
-<p>details : </p>
+<p>summary : 테이블 태그등에 요약을 나타낸다.</p>
+<p>details : 사용자가 직접 조작하여 보거나 숨길 수 있는 부가적인 세부사항을 명시할 때 사용한다.</p>
